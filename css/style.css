@@ -126,3 +126,88 @@ a.navref:hover {
     padding-left: 24px;
   }
   
+  /* more.html */
+  #more {
+    padding-top: 1em;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 5em;
+    word-wrap: normal;
+  }
+
+  #morebody {
+    text-align: center;
+    background: rgb(177, 129, 209);
+  }
+  
+  #moreh1 {
+    padding-left: 24px;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-size: 64px;
+    color: rgb(192, 24, 12);
+  }
+  
+  #moreh2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    color: blue;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+  }
+
+  .moretext {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding-left: 24px;
+  }
+  
+  #hobbies {
+    padding-right: 8px;
+    padding-left: 8px;
+  
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+  }
+  
+  #likes-sec, #hob-sec {
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+  }
+  
+  #likes {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 16px;
+  }
+  
+  #long-img {
+    border-radius: 6em;
+  }
+  
+  #stonks {
+    border-radius: 6em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 55%;
+    box-shadow: 0 0 16px 16px rgb(255, 120, 47);
+  }
+  
+  
+  #hxh {
+    max-width: 100%;
+    height: auto;
+    border: 10px solid rgb(59, 56, 250);
+  }
+  
+  #boogie {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 55%;
+    position: sticky;
+  }
+  
+  #boogie:hover {
+    box-shadow: 0 0 5px 6px rgb(216, 168, 34);
+  }
