@@ -92,4 +92,37 @@ a.navref:hover {
   }
  
   
+  /* resume.html */
+  #rebody {
+    position: relative;
+    background-color: rgb(177, 129, 209);
+  }
+  
+  #reh1 {
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    color: rgb(192, 24, 12);
+    padding: 24px;
+  }  
+  
+  #reh2{
+    font-family: 'Playfair Display';
+    color: blue;
+    padding-left: 24px
+  
+  }
+
+  #reh3{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    padding-left: 24px
+  
+  }
+  
+  
+  .relists {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding-left: 24px;
+  }
   
