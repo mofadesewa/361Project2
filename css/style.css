@@ -4,6 +4,14 @@
 img {
     align-self: center;
     max-width: 100%;
+    max-height: 500px;
+    border-radius: 10px;
+  }
+
+  video {
+    align-self: center;
+    max-width: 600px;
+    max-height: 500px;
     border-radius: 10px;
   }
 
