@@ -3,18 +3,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 /* Overall styling */
 img {
-    align-self: center;
-    max-width: 100%;
-    max-height: 500px;
-    border-radius: 10px;
-  }
+  align-self: center;
+  max-width: 100%;
+  max-height: 500px;
+  border-radius: 10px;
+}
 
-  video {
-    align-self: center;
-    max-width: 600px;
-    max-height: 500px;
-    border-radius: 10px;
-  }
+video {
+  align-self: center;
+  max-width: 600px;
+  max-height: 500px;
+  border-radius: 10px;
+}
 
 nav {
   background-color: transparent;
@@ -74,104 +74,100 @@ a.navref:hover {
     background-color: rgb(177, 129, 209);
   }
   
-  #idxh1 {
-    font-family: 'BhuTuka Expanded One', cursive;
-    font-size: 88px;
-    color: rgb(192, 24, 12);
-  }
+#idxh1 {
+  font-family: 'BhuTuka Expanded One', cursive;
+  font-size: 88px;
+  color: rgb(192, 24, 12);
+}
   
-  .idxh2 {
-    font-family: 'Playfair Display';
-    font-weight: 800;
-    font-size: 28px;
-    color: blue;
-  }
+.idxh2 {
+  font-family: 'Playfair Display';
+  font-weight: 800;
+  font-size: 28px;
+  color: blue;
+}
   
-  .idximg {
-    border-radius: 10px;
-  }
+.idximg {
+  border-radius: 10px;
+}
  
   
   /* resume.html */
-  #rebody {
-    position: relative;
-    background-color: rgb(177, 129, 209);
-  }
+#rebody {
+  position: relative;
+  background-color: rgb(177, 129, 209);
+}
   
-  #reh1 {
-    font-family: 'Playfair Display';
-    font-weight: 700;
-    color: rgb(192, 24, 12);
-    padding: 24px;
-  }  
+#reh1 {
+  font-family: 'Playfair Display';
+  font-weight: 700;
+  color: rgb(192, 24, 12);
+  padding: 24px;
+}  
   
-  #reh2{
-    font-family: 'Playfair Display';
-    color: blue;
-    padding-left: 24px
+#reh2{
+  font-family: 'Playfair Display';
+  color: blue;
+  padding-left: 24px
   
-  }
+}
 
-  #reh3{
-    font-family: 'Roboto', sans-serif;
-    color: black;
-    padding-left: 24px
+#reh3{
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  padding-left: 24px
   
-  }
+}
   
   
-  .relists {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    padding-left: 24px;
-  }
+.relists {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  padding-left: 24px;
+}
   
   /* more.html */
-  #more {
-    padding-top: 1em;
-    padding-left: 5em;
-    padding-right: 5em;
-    padding-bottom: 5em;
-    word-wrap: normal;
-  }
+#more {
+  padding-top: 1em;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-bottom: 5em;
+  word-wrap: normal;
+}
 
-  #morebody {
-    text-align: center;
-    background: rgb(177, 129, 209);
-  }
+#morebody {
+  text-align: center;
+  background: rgb(177, 129, 209);
+}
   
-  #moreh1 {
-    padding-left: 24px;
-    font-family: 'BhuTuka Expanded One', cursive;
-    font-size: 64px;
-    color: rgb(192, 24, 12);
-  }
+#moreh1 {
+  padding-left: 24px;
+  font-family: 'BhuTuka Expanded One', cursive;
+  font-size: 64px;
+  color: rgb(192, 24, 12);
+}
   
-  #moreh2 {
-    font-family: 'Roboto', sans-serif;
-    font-size: 36px;
-    color: blue;
-    text-shadow: 1px 1px rgb(0, 0, 0);
-  }
+#moreh2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  color: blue;
+  text-shadow: 1px 1px rgb(0, 0, 0);
+}
 
-  .moretext {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    padding: 24px;
-  }
-  
-
-  
-  
-  
-  #vid {
-    border-radius: 6em;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 55%;
-    box-shadow: 0 0 16px 16px blue;
-  }
+.moretext {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  padding: 24px;
+}
+   
+#vid {
+  border-radius: 6em;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 55%;
+  box-shadow: 0 0 16px 16px blue;
+}
   
   
   
